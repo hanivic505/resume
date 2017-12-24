@@ -34,7 +34,6 @@ Develop software from approved designs and requirements, adhering to relevant st
 Support in software modeling and simulation and contribute to front end graphical user interface design
 Document any relevant software and ensure coding quality compliance to coding standards
 Evaluate and identify new technologies for implementation
- 
 ..* Organizational development Responsibilities
 Contribute to the learning and development for juniors, ensuring their adoption of ITS standards
 Contribute to the enrichment of ITS library of tools to support efficient and methodological programming.
@@ -46,9 +45,9 @@ Contribute to the enrichment of ITS library of tools to support efficient and me
 * Jan, 2006 – May, 2006	SOFTLOCK	Product Manager
 * July, 2003 – Dec, 2005	NEWSOFT	Software Developer
 ## Qualifications & Certifications 	
-Date 	|Degree 	|From
+Date|Degree|From
 ---|---|---
-	June, 2003 	|Bachelor of Computer Science and Management Technology. 	|Modern Academy in Maadi, Cairo, Egypt. 
+June, 2003 |Bachelor of Computer Science and Management Technology. |Modern Academy in Maadi, Cairo, Egypt. 
 ## Relevant Training 
 Date 	|Course 	|Location 
 ---|---|---
