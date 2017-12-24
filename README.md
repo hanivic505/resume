@@ -5,18 +5,14 @@
 * _LinkedIn_: [http://eg.linkedin.com/in/hanivic505](http://eg.linkedin.com/in/hanivic505)
 * _GitHub_: [https://github.com/hanivic505](https://github.com/hanivic505)
 * _More Work Samples_:  
-  1. Construction Management System (AngularJS + Firebase)
-  2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
-  3. Simple Social Network with angularjs (AngularJS + Firebase)
-  4. Prototype Sample
-  5. Galleria 40 Website (DNN CMS)
-  6. RAYA Contact Center website (DNN CMS)
-  7. RAYA Corp Website (DNN CMS)
-  8. India Embassy in Cairo Official website (DNN CMS) 
-  9. Hands-On Visual Studio website with a sample plugin I made (html5) 
-  10. ABU DAHBI ELearning System (DNN CMS) 
-  11. Responsive sample website (html5+css3) 
-  12. ANGULARJS + Firebase + LESS Sample
+  1. [Construction Management System (AngularJS + Firebase)](https://pmp-application.firebaseapp.com/)
+  2. [Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)](https://formbuilder-hd.firebaseapp.com/#/)
+  3. [Simple Social Network with angularjs (AngularJS + Firebase)](https://collaborate-platform.firebaseapp.com/#/)
+  4. [Prototype Sample](https://www.dropbox.com/s/g6lzugdtk7wp0ro/Prototype.rar)
+  5. [Galleria 40 Website (DNN CMS)](http://www.galleria40.com/)
+  7. [RAYA Corp Website (DNN CMS)](http://www.rayacorp.com/)
+  8. [India Embassy in Cairo Official website (DNN CMS) ]()
+  9. [Hands-On Visual Studio website with a sample plugin I made (html5) ](https://www.dropbox.com/s/1mvhtvm3arr7ymp/visualStudio-website.rar)
 
 ## Experience
 * Years of Experience 	10+ Years (since July 2003)
