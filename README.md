@@ -6,17 +6,17 @@
 * GitHub: https://github.com/hanivic505 
 * More Work Samples:  
   1 Construction Management System (AngularJS + Firebase)
-  1 Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
-  1 Simple Social Network with angularjs (AngularJS + Firebase)
-  1 Prototype Sample
-  1 Galleria 40 Website (DNN CMS)
-  1 RAYA Contact Center website (DNN CMS)
-  1 RAYA Corp Website (DNN CMS)
-  1 India Embassy in Cairo Official website (DNN CMS) 
-  1 Hands-On Visual Studio website with a sample plugin I made (html5) 
-  1 ABU DAHBI ELearning System (DNN CMS) 
-  1 Responsive sample website (html5+css3) 
-  1 ANGULARJS + Firebase + LESS Sample
+  2 Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
+  3 Simple Social Network with angularjs (AngularJS + Firebase)
+  4 Prototype Sample
+  5 Galleria 40 Website (DNN CMS)
+  6 RAYA Contact Center website (DNN CMS)
+  7 RAYA Corp Website (DNN CMS)
+  8 India Embassy in Cairo Official website (DNN CMS) 
+  9 Hands-On Visual Studio website with a sample plugin I made (html5) 
+  10 ABU DAHBI ELearning System (DNN CMS) 
+  11 Responsive sample website (html5+css3) 
+  12 ANGULARJS + Firebase + LESS Sample
 
 ## Experience
 * Years of Experience 	10+ Years (since July 2003)
@@ -94,7 +94,7 @@ November, 2004 	|Software Engineering and Software Management. 	|Fujitsu Egypt j
 * Usability guidelines (v. good) 
 * Agile UI practices (v. good) 
 * Storyboard /Indigo Studio (excellent) 
-* Notice period 	1 months  
+### Notice period 	1 months  
 ## Personal Info	
 * Birthdate: 22 December 1976
 * Marital status: Married
