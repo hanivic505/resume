@@ -38,15 +38,17 @@ Evaluate and identify new technologies for implementation
 ..* Organizational development Responsibilities
 Contribute to the learning and development for juniors, ensuring their adoption of ITS standards
 Contribute to the enrichment of ITS library of tools to support efficient and methodological programming.
-• 
+
 ## Career History
-May, 2014 – February, 2015	OMS	UX Consultant
-July, 2013 – April, 2014	AWAL IT Egypt	Sr. UI Developer
-June, 2006 – June, 2013	RAYA Software, RAYA Internal Service, RAYA Data Center.	Sr. UI Developer
-Jan, 2006 – May, 2006	SOFTLOCK	Product Manager
-July, 2003 – Dec, 2005	NEWSOFT	Software Developer
-Qualifications & Certifications 	Date 	Degree 	From
-	June, 2003 	Bachelor of Computer Science and Management Technology. 	Modern Academy in Maadi, Cairo, Egypt. 
+* May, 2014 – February, 2015	OMS	UX Consultant
+* July, 2013 – April, 2014	AWAL IT Egypt	Sr. UI Developer
+* June, 2006 – June, 2013	RAYA Software, RAYA Internal Service, RAYA Data Center.	Sr. UI Developer
+* Jan, 2006 – May, 2006	SOFTLOCK	Product Manager
+* July, 2003 – Dec, 2005	NEWSOFT	Software Developer
+## Qualifications & Certifications 	
+Date 	|Degree 	|From
+---|---|---
+	June, 2003 	|Bachelor of Computer Science and Management Technology. 	|Modern Academy in Maadi, Cairo, Egypt. 
 ## Relevant Training 
 Date 	|Course 	|Location 
 ---|---|---
