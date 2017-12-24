@@ -4,19 +4,19 @@
 * Email address: mailto:hanivic505@yahoo.com
 * LinkedIn: http://eg.linkedin.com/in/hanivic505 
 * GitHub: https://github.com/hanivic505 
-* More Work Samples: 
-..* Construction Management System (AngularJS + Firebase)
-..* Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
-..* Simple Social Network with angularjs (AngularJS + Firebase)
-..* Prototype Sample
-..* Galleria 40 Website (DNN CMS)
-..* RAYA Contact Center website (DNN CMS)
-..* RAYA Corp Website (DNN CMS)
-..* India Embassy in Cairo Official website (DNN CMS) 
-..* Hands-On Visual Studio website with a sample plugin I made (html5) 
-..* ABU DAHBI ELearning System (DNN CMS) 
-..* Responsive sample website (html5+css3) 
-..* ANGULARJS + Firebase + LESS Sample
+* More Work Samples:  
+  * Construction Management System (AngularJS + Firebase)
+  * Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
+  * Simple Social Network with angularjs (AngularJS + Firebase)
+  * Prototype Sample
+  * Galleria 40 Website (DNN CMS)
+  * RAYA Contact Center website (DNN CMS)
+  * RAYA Corp Website (DNN CMS)
+  * India Embassy in Cairo Official website (DNN CMS) 
+  * Hands-On Visual Studio website with a sample plugin I made (html5) 
+  * ABU DAHBI ELearning System (DNN CMS) 
+  * Responsive sample website (html5+css3) 
+  * ANGULARJS + Firebase + LESS Sample
 
 ## Experience
 * Years of Experience 	10+ Years (since July 2003)
@@ -25,16 +25,16 @@
 * Current Job Title 	Sr. UI Developer / Act as UX Team Lead
 * Joining Date	Feb 2015
 * Job Responsibilities
-⋅⋅* Managerial Responsibilities
+  * Managerial Responsibilities
 Contributing to software designs and ideas of new functionality, improvements and debugging
 Maintain self-utilization optimized
 Managing Team members allocation and Reviewing output
-⋅⋅* Technical Responsibilities
+  * Technical Responsibilities
 Develop software from approved designs and requirements, adhering to relevant standards, utilizing ITS development environment efficiently
 Support in software modeling and simulation and contribute to front end graphical user interface design
 Document any relevant software and ensure coding quality compliance to coding standards
 Evaluate and identify new technologies for implementation
-⋅⋅* Organizational development Responsibilities
+  * Organizational development Responsibilities
 Contribute to the learning and development for juniors, ensuring their adoption of ITS standards
 Contribute to the enrichment of ITS library of tools to support efficient and methodological programming.
 
