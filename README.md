@@ -5,18 +5,18 @@
 * LinkedIn: http://eg.linkedin.com/in/hanivic505 
 * GitHub: https://github.com/hanivic505 
 * More Work Samples: 
-1. Construction Management System (AngularJS + Firebase)
-2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
-3. Simple Social Network with angularjs (AngularJS + Firebase)
-4. Prototype Sample
-5. Galleria 40 Website (DNN CMS)
-6. RAYA Contact Center website (DNN CMS)
-7. RAYA Corp Website (DNN CMS)
-8. India Embassy in Cairo Official website (DNN CMS) 
-9. Hands-On Visual Studio website with a sample plugin I made (html5) 
-10. ABU DAHBI ELearning System (DNN CMS) 
-11. Responsive sample website (html5+css3) 
-12. ANGULARJS + Firebase + LESS Sample
+⋅⋅1. Construction Management System (AngularJS + Firebase)
+⋅⋅2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
+⋅⋅3. Simple Social Network with angularjs (AngularJS + Firebase)
+⋅⋅4. Prototype Sample
+⋅⋅5. Galleria 40 Website (DNN CMS)
+⋅⋅6. RAYA Contact Center website (DNN CMS)
+⋅⋅7. RAYA Corp Website (DNN CMS)
+⋅⋅8. India Embassy in Cairo Official website (DNN CMS) 
+⋅⋅9. Hands-On Visual Studio website with a sample plugin I made (html5) 
+⋅⋅10. ABU DAHBI ELearning System (DNN CMS) 
+⋅⋅11. Responsive sample website (html5+css3) 
+⋅⋅12. ANGULARJS + Firebase + LESS Sample
 
 ## Experience
 * Years of Experience 	10+ Years (since July 2003)
@@ -25,16 +25,16 @@
 * Current Job Title 	Sr. UI Developer / Act as UX Team Lead
 * Joining Date	Feb 2015
 * Job Responsibilities
-..* Managerial Responsibilities
+⋅⋅* Managerial Responsibilities
 Contributing to software designs and ideas of new functionality, improvements and debugging
 Maintain self-utilization optimized
 Managing Team members allocation and Reviewing output
-..* Technical Responsibilities
+⋅⋅* Technical Responsibilities
 Develop software from approved designs and requirements, adhering to relevant standards, utilizing ITS development environment efficiently
 Support in software modeling and simulation and contribute to front end graphical user interface design
 Document any relevant software and ensure coding quality compliance to coding standards
 Evaluate and identify new technologies for implementation
-..* Organizational development Responsibilities
+⋅⋅* Organizational development Responsibilities
 Contribute to the learning and development for juniors, ensuring their adoption of ITS standards
 Contribute to the enrichment of ITS library of tools to support efficient and methodological programming.
 
@@ -99,5 +99,3 @@ November, 2004 	|Software Engineering and Software Management. 	|Fujitsu Egypt j
 * Birthdate: 22 December 1976
 * Marital status: Married
 * Resident: Nasr City, Cairo, EGYPT
-
-
