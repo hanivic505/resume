@@ -2,7 +2,7 @@
 ## Hany Ayman Darwish 
 * Mobile number: +201009383977 
 * Email address: mailto:hanivic505@yahoo.com
-* LinkedIn: eg.linkedin.com/in/hanivic505 
+* LinkedIn: http://eg.linkedin.com/in/hanivic505 
 * GitHub: https://github.com/hanivic505 
 * More Work Samples: 
 ..1. Construction Management System (AngularJS + Firebase)
