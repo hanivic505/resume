@@ -1,10 +1,10 @@
 # Experienced Frontend Developer CV
 ## Hany Ayman Darwish 
-* Mobile number: +201009383977 
-* Email address: mailto:hanivic505@yahoo.com
-* LinkedIn: http://eg.linkedin.com/in/hanivic505 
-* GitHub: https://github.com/hanivic505 
-* More Work Samples:  
+* _Mobile number_: +201009383977 
+* _Email address_: [hanivic505@yahoo.com](mailto:hanivic505@yahoo.com)
+* _LinkedIn_: [http://eg.linkedin.com/in/hanivic505](http://eg.linkedin.com/in/hanivic505)
+* _GitHub_: [https://github.com/hanivic505](https://github.com/hanivic505)
+* _More Work Samples_:  
   1. Construction Management System (AngularJS + Firebase)
   2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
   3. Simple Social Network with angularjs (AngularJS + Firebase)
