@@ -48,12 +48,12 @@ July, 2003 – Dec, 2005	NEWSOFT	Software Developer
 Qualifications & Certifications 	Date 	Degree 	From
 	June, 2003 	Bachelor of Computer Science and Management Technology. 	Modern Academy in Maadi, Cairo, Egypt. 
 ## Relevant Training 
-Date 	Course 	Location 
-March, 2014	Agile Foundation 	SECC
-December, 2013 	Configuring and Administering Microsoft SharePoint 2010 (10174B) 	Raya Academy 
-April,2008 		Data Modeling 	Nile University (Communication Ministry) 
-April, 2005 	Microsoft Security Boot Camp 	VirgiTech Egypt 
-November, 2004 	Software Engineering and Software Management. 	Fujitsu Egypt joint with NCC London (Cairo) 
+|Date 	|Course 	|Location |
+|March, 2014	|Agile Foundation 	|SECC|
+|December, 2013 	|Configuring and Administering Microsoft SharePoint 2010 (10174B) 	|Raya Academy |
+|April,2008 		|Data Modeling 	|Nile University (Communication Ministry) |
+|April, 2005 	|Microsoft Security Boot Camp 	|VirgiTech Egypt |
+|November, 2004 	|Software Engineering and Software Management. 	|Fujitsu Egypt joint with NCC London (Cairo)| 
 ## Tools & Technologies 	
 • AngularJS (excellent)
 • JavaScript (DOM) (excellent) 
@@ -92,7 +92,7 @@ November, 2004 	Software Engineering and Software Management. 	Fujitsu Egypt joi
 • Usability guidelines (v. good) 
 • Agile UI practices (v. good) 
 • Storyboard /Indigo Studio (excellent) 
-Notice period 	1 months 
+* Notice period 	1 months 
 ## Personal Info	
 * Birthdate: 22 December 1976
 * Marital status: Married
