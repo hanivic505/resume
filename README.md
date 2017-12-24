@@ -5,8 +5,8 @@
 * LinkedIn: http://eg.linkedin.com/in/hanivic505 
 * GitHub: https://github.com/hanivic505 
 * More Work Samples: 
-⋅⋅1. Construction Management System (AngularJS + Firebase)
-⋅⋅2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
+..1. Construction Management System (AngularJS + Firebase)
+..2. Form Builder POC (AngularJS [directives,services] + Firebase + HTML5)
 ⋅⋅3. Simple Social Network with angularjs (AngularJS + Firebase)
 ⋅⋅4. Prototype Sample
 ⋅⋅5. Galleria 40 Website (DNN CMS)
